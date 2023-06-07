@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Brigid Clancy
     tagline: Early Career Researcher
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: Brigid.Clancy@uon.edu.au
@@ -19,19 +19,13 @@ sidebar:
     website: BrigidClancy.com #do not add http://
     linkedin: brigid-clancy-50b491188
     twitter: '@webjeda'
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://github.com/Xheis/silver-dollop/blob/main/assets/pdf/resume.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
@@ -57,8 +51,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: Bachelor of Health
+        university: University of Newcastle
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
